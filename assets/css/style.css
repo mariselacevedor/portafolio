@@ -1,0 +1,23 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+/* Titulo*/
+
+  h1{
+    display: flex;
+    justify-content: center;
+    margin: 2rem ;
+    font-size: 3rem;
+  }
+  /* Mis trabajos */
+
+#Mis-trabajos .image-top {
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+
+  
